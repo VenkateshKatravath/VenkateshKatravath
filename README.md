@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**VenkateshKatravath/VenkateshKatravath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Hi, I'm Venkatesh Katravath 
 
-Here are some ideas to get you started:
+ B.Tech Computer Science Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ C++ Developer | DSA Enthusiast
+
+About Me
+
+•⁠  ⁠Currently learning Data Structures and Algorithms using C++.
+•⁠  ⁠Interested in Artificial Intelligence and Machine Learning.
+•⁠  ⁠Improving my problem-solving and programming skills.
+
+Skills
+
+•⁠  ⁠C
+•⁠  ⁠C++
+•⁠  ⁠Data Structures & Algorithms
+•⁠  ⁠Git & GitHub
+
+Currently Learning
+
+•⁠  ⁠Arrays
+•⁠  ⁠Sorting Algorithms
+•⁠  ⁠Recursion
+•⁠  ⁠Hashing
+
+Career Goal
+
+Aspiring AI Engineer 
+
+Connect With Me
+•⁠  ⁠LinkedIn: https://www.linkedin.com/in/venkatesh-katravath-2a89b3388
+•⁠  ⁠GitHub: "My GitHub" (https://github.com/VenkateshKatravath)
